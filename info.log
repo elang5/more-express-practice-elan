@@ -24,3 +24,5 @@
 {"message":"Card with id 82584c01-7c1b-4c67-a2ca-de8a5ca7dde0 created","level":"info"}
 {"message":"Card with id f16f8a52-076d-4fcc-9307-eaca0477d5d0 created","level":"info"}
 {"message":"Card with id f16f8a52-076d-4fcc-9307-eaca0477d5d0 not found.","level":"error"}
+{"message":"Unauthorized request to path: /list","level":"error"}
+{"message":"Unauthorized request to path: /list","level":"error"}
