@@ -1,0 +1,26 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /card","level":"error"}
+{"message":"Unauthorized request to path: /card","level":"error"}
+{"message":"Unauthorized request to path: /card","level":"error"}
+{"message":"Unauthorized request to path: /card","level":"error"}
+{"message":"Card with id 2 not found.","level":"error"}
+{"message":"Card with id 1 not found.","level":"error"}
+{"message":"Card with id id:1 not found.","level":"error"}
+{"message":"Card with id 1 not found.","level":"error"}
+{"message":"Card with id 2 not found.","level":"error"}
+{"message":"Card with id 1 not found.","level":"error"}
+{"message":"Card with id 2 not found.","level":"error"}
+{"message":"List with id undefined not found.","level":"error"}
+{"message":"List with id undefined not found.","level":"error"}
+{"message":"List with id undefined not found.","level":"error"}
+{"message":"List with id undefined not found.","level":"error"}
+{"message":"List with id undefined not found.","level":"error"}
+{"message":"List with id undefined not found.","level":"error"}
+{"message":"List with id undefined not found.","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Card with id 7249cbd2-9b64-450b-a37e-87de44584633 created","level":"info"}
+{"message":"Card with id 7249cbd2-9b64-450b-a37e-87de44584633 not found.","level":"error"}
+{"message":"Card with id 82584c01-7c1b-4c67-a2ca-de8a5ca7dde0 created","level":"info"}
+{"message":"Card with id f16f8a52-076d-4fcc-9307-eaca0477d5d0 created","level":"info"}
+{"message":"Card with id f16f8a52-076d-4fcc-9307-eaca0477d5d0 not found.","level":"error"}
